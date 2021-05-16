@@ -1,2 +1,2 @@
 # CV
-CV Teste de APrendizado Fullstack
+CV Teste de Aprendizado Fullstack
